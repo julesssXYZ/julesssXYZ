@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌱 I’m currently studying on Sint Lucas.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I play AND make lots of games! And I've even got about 50 players active everytime I update it.
+
 <!--
 **julesssXYZ/julesssXYZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
